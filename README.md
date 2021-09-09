@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/ogespana/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a> <a href="https://omicv-4db8f.web.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%230077B5.svg?color=purple&style=for-the-badge alt=Portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Portfolio-%230077B5.svg?color=purple&style=for-the-badge alt=Portfolio style="margin-bottom: 5px;"  />
 </a> 
 </div>  
 
@@ -41,7 +41,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=gold)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>  
@@ -69,7 +69,7 @@
 </td><td valign="top" halign="center" width="25%"><div align="center">
 
 ### Cloud and Devops
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=gold)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
