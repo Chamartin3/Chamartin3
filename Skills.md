@@ -1,46 +1,5 @@
 
 
-<div align="center">
-<h1> Hello World! <br> My name is Omar </h1>
-</div>  
-
-
-<div align="center">
-<a href="https://github.com/chamartin3" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/omiengland" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:omi.fullstack@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-</a> 
-<a href="mailto:omi.fullstack@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
-</a> 
-</div>
-</div>  
-
-
-
-<div align="center">
-<h2>  I'm full-stack developer </h2>
-<h5> Working as a developer since 2017 🚀 </h5>
-<h5> Working as a data analist since 2011 📈 </h5>
-</div>  
-
-
-
-## Currently
-
-- 🔨 I’m ***Working*** on FinTech adn Mobile Development with [Suni Fintech](https://github.com/SuniFintech)  
-  
-- 🌱 I’m ***Learning*** Expo and Kubernetes  
-
-- 🌎 I’m ***Living in***  Caracas-Venezuela 🇻🇪
-
-
-
 ## My Stack
 <table><tr><td valign="top"width="25%">
 
@@ -84,9 +43,3 @@
 </div>  
 
 </td></tr></table>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamartin3&theme=prussian&layout=compact&hide_border=true&hide=php,html,hack&langs_count=10" align="center" /></div>  
-
-
-<br>
-
