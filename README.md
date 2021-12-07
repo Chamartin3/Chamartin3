@@ -83,13 +83,7 @@
 
 
 ## Currently
-
-- 🔨 I’m ***Working*** on FinTech adn Mobile Development with [Suni Fintech](https://github.com/SuniFintech)  
-  
-- 🌱 I’m ***Learning*** Expo and Kubernetes  
-
-- 🌎 I’m ***Living in***  Caracas-Venezuela 🇻🇪
-
+- 🌱 I’m ***Learning*** Bash Scripting and Solidity 
 
 <br>
 
