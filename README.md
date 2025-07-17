@@ -25,8 +25,10 @@
 
 
 <div align="center">
-<h5> Working as a developer since 2017 🚀 </h5>
-<h5> Working as a data analist since 2011 📈 </h5>
+
+<h5> Data scientist... since 2011 📈 </h5>
+<h5> Developer... since 2017 🚀 </h5>
+
 </div>  
 
 
