@@ -89,12 +89,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamartin3&theme=prussian&layout=compact&hide_border=true&hide=php,html,hack&langs_count=10" align="center" /></div>  
 
 
-## Currently
-- 🌱 I’m ***Learning*** 
+## Currently ***Learning*** 🌱
 
-- Gin (Golang)
-- Crew ai
+- Cobra (Golang)
 
+<br>
+
+## Currently ***Building*** 🏗️ 
+- [AgentBox](https://github.com/Chamartin3/agentbox) 
 
 <br>
 
