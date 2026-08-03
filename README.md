@@ -17,8 +17,8 @@
 </a> 
 <a href="https://www.linkedin.com/in/ogespana/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
-</a> <a href="https://omicv-4db8f.web.app/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%230077B5.svg?color=purple&style=for-the-badge alt=Portfolio style="margin-bottom: 5px;"  />
+</a> <a href="https://omarespana.com/" target="_blank">
+<img src=https://img.shields.io/badge/Website%230077B5.svg?color=purple&style=for-the-badge alt=Portfolio style="margin-bottom: 5px;"  />
 </a> 
 </div>  
 
